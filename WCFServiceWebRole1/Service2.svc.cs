@@ -13,7 +13,7 @@ namespace WCFServiceWebRole1
     {
         public string GetData(int value)
         {
-            return string.Format("You entered {0} in Service1", value);
+            return string.Format("You entered {0} in Service2", value);
         }
     }
 }
